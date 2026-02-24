@@ -1,7 +1,8 @@
 {
   "permissions": {
     "allow": [
-      "Bash(dir:*)"
+      "Bash(dir:*)",
+      "Bash(git remote set-url origin https://github.com/TobiasRyttlinger/Middle-Earth-at-War.git)"
     ]
   }
 }
